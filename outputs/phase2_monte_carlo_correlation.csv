@@ -1,0 +1,17 @@
+Rho,Drug,Drug_ID,HS_Dependency,Mean_Capacity_Loss_pct,Median_Capacity_Loss_pct,P5_Loss_pct,P95_Loss_pct,Prob_Severe_Shortage_pct
+0.0,Amoxicillin,AMOX,294110,85.49,85.01,82.64,89.94,100.0
+0.0,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",95.19,95.13,93.74,96.87,100.0
+0.0,Azithromycin,AZI,294150,76.39,76.06,74.46,79.4,100.0
+0.0,Doxycycline,DOXY,294130,92.8,92.6,91.51,94.81,100.0
+0.25,Amoxicillin,AMOX,294110,85.49,85.01,82.64,89.94,100.0
+0.25,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",95.17,95.08,93.62,97.02,100.0
+0.25,Azithromycin,AZI,294150,76.39,76.06,74.46,79.4,100.0
+0.25,Doxycycline,DOXY,294130,92.8,92.6,91.51,94.81,100.0
+0.5,Amoxicillin,AMOX,294110,85.49,85.01,82.64,89.94,100.0
+0.5,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",95.14,95.03,93.53,97.18,100.0
+0.5,Azithromycin,AZI,294150,76.39,76.06,74.46,79.4,100.0
+0.5,Doxycycline,DOXY,294130,92.8,92.6,91.51,94.81,100.0
+0.75,Amoxicillin,AMOX,294110,85.49,85.01,82.64,89.94,100.0
+0.75,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",95.11,94.96,93.45,97.32,100.0
+0.75,Azithromycin,AZI,294150,76.39,76.06,74.46,79.4,100.0
+0.75,Doxycycline,DOXY,294130,92.8,92.6,91.51,94.81,100.0

@@ -1,0 +1,49 @@
+Sensitivity_Label,Scenario,Drug,Drug_ID,HS_Dependency,Mean_Capacity_Loss_pct,Median_Capacity_Loss_pct,P5_Loss_pct,P95_Loss_pct,Prob_Severe_Shortage_pct
+S1_band_lower,Baseline (No Shock),Amoxicillin,AMOX,294110,0.0,0.0,0.0,0.0,0.0
+S1_band_lower,Baseline (No Shock),Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",0.0,0.0,0.0,0.0,0.0
+S1_band_lower,Baseline (No Shock),Azithromycin,AZI,294150,0.0,0.0,0.0,0.0,0.0
+S1_band_lower,Baseline (No Shock),Doxycycline,DOXY,294130,0.0,0.0,0.0,0.0,0.0
+S1_band_lower,A: Direct Ban (CN+IN),Amoxicillin,AMOX,294110,46.23,46.23,46.23,46.23,100.0
+S1_band_lower,A: Direct Ban (CN+IN),Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",60.22,60.22,60.22,60.22,100.0
+S1_band_lower,A: Direct Ban (CN+IN),Azithromycin,AZI,294150,70.86,70.86,70.86,70.86,100.0
+S1_band_lower,A: Direct Ban (CN+IN),Doxycycline,DOXY,294130,75.9,75.9,75.9,75.9,100.0
+S1_band_lower,B: Cascading Upstream Shock,Amoxicillin,AMOX,294110,82.44,82.44,82.44,82.44,100.0
+S1_band_lower,B: Cascading Upstream Shock,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",93.24,93.24,93.24,93.24,100.0
+S1_band_lower,B: Cascading Upstream Shock,Azithromycin,AZI,294150,74.32,74.32,74.32,74.32,100.0
+S1_band_lower,B: Cascading Upstream Shock,Doxycycline,DOXY,294130,91.41,91.41,91.41,91.41,100.0
+S1_band_lower,C: Logistics Chokepoint,Amoxicillin,AMOX,294110,22.65,19.97,8.74,45.47,20.82
+S1_band_lower,C: Logistics Chokepoint,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",38.71,35.96,16.72,70.27,65.72
+S1_band_lower,C: Logistics Chokepoint,Azithromycin,AZI,294150,22.65,19.97,8.74,45.47,20.82
+S1_band_lower,C: Logistics Chokepoint,Doxycycline,DOXY,294130,22.65,19.97,8.74,45.47,20.82
+S2_band_upper,Baseline (No Shock),Amoxicillin,AMOX,294110,0.0,0.0,0.0,0.0,0.0
+S2_band_upper,Baseline (No Shock),Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",0.0,0.0,0.0,0.0,0.0
+S2_band_upper,Baseline (No Shock),Azithromycin,AZI,294150,0.0,0.0,0.0,0.0,0.0
+S2_band_upper,Baseline (No Shock),Doxycycline,DOXY,294130,0.0,0.0,0.0,0.0,0.0
+S2_band_upper,A: Direct Ban (CN+IN),Amoxicillin,AMOX,294110,46.23,46.23,46.23,46.23,100.0
+S2_band_upper,A: Direct Ban (CN+IN),Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",60.22,60.22,60.22,60.22,100.0
+S2_band_upper,A: Direct Ban (CN+IN),Azithromycin,AZI,294150,70.86,70.86,70.86,70.86,100.0
+S2_band_upper,A: Direct Ban (CN+IN),Doxycycline,DOXY,294130,75.9,75.9,75.9,75.9,100.0
+S2_band_upper,B: Cascading Upstream Shock,Amoxicillin,AMOX,294110,93.19,93.19,93.19,93.19,100.0
+S2_band_upper,B: Cascading Upstream Shock,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",98.64,98.64,98.64,98.64,100.0
+S2_band_upper,B: Cascading Upstream Shock,Azithromycin,AZI,294150,81.6,81.6,81.6,81.6,100.0
+S2_band_upper,B: Cascading Upstream Shock,Doxycycline,DOXY,294130,96.23,96.23,96.23,96.23,100.0
+S2_band_upper,C: Logistics Chokepoint,Amoxicillin,AMOX,294110,22.65,19.97,8.74,45.47,20.82
+S2_band_upper,C: Logistics Chokepoint,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",38.71,35.96,16.72,70.27,65.72
+S2_band_upper,C: Logistics Chokepoint,Azithromycin,AZI,294150,22.65,19.97,8.74,45.47,20.82
+S2_band_upper,C: Logistics Chokepoint,Doxycycline,DOXY,294130,22.65,19.97,8.74,45.47,20.82
+S3_HS294150_subrecent_2023_2025,Baseline (No Shock),Amoxicillin,AMOX,294110,0.0,0.0,0.0,0.0,0.0
+S3_HS294150_subrecent_2023_2025,Baseline (No Shock),Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",0.0,0.0,0.0,0.0,0.0
+S3_HS294150_subrecent_2023_2025,Baseline (No Shock),Azithromycin,AZI,294150,0.0,0.0,0.0,0.0,0.0
+S3_HS294150_subrecent_2023_2025,Baseline (No Shock),Doxycycline,DOXY,294130,0.0,0.0,0.0,0.0,0.0
+S3_HS294150_subrecent_2023_2025,A: Direct Ban (CN+IN),Amoxicillin,AMOX,294110,46.23,46.23,46.23,46.23,100.0
+S3_HS294150_subrecent_2023_2025,A: Direct Ban (CN+IN),Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",60.22,60.22,60.22,60.22,100.0
+S3_HS294150_subrecent_2023_2025,A: Direct Ban (CN+IN),Azithromycin,AZI,294150,90.69,90.69,90.69,90.69,100.0
+S3_HS294150_subrecent_2023_2025,A: Direct Ban (CN+IN),Doxycycline,DOXY,294130,75.9,75.9,75.9,75.9,100.0
+S3_HS294150_subrecent_2023_2025,B: Cascading Upstream Shock,Amoxicillin,AMOX,294110,85.46,85.0,82.66,89.88,100.0
+S3_HS294150_subrecent_2023_2025,B: Cascading Upstream Shock,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",95.16,95.1,93.73,96.84,100.0
+S3_HS294150_subrecent_2023_2025,B: Cascading Upstream Shock,Azithromycin,AZI,294150,79.32,79.22,78.7,80.27,100.0
+S3_HS294150_subrecent_2023_2025,B: Cascading Upstream Shock,Doxycycline,DOXY,294130,92.81,92.59,91.51,94.81,100.0
+S3_HS294150_subrecent_2023_2025,C: Logistics Chokepoint,Amoxicillin,AMOX,294110,22.57,19.96,8.76,44.91,20.89
+S3_HS294150_subrecent_2023_2025,C: Logistics Chokepoint,Amoxicillin/clavulanate (Augmentin),AMOX_CLAV,"294110, 294190",38.62,35.93,16.76,69.66,65.42
+S3_HS294150_subrecent_2023_2025,C: Logistics Chokepoint,Azithromycin,AZI,294150,22.57,19.96,8.76,44.91,20.89
+S3_HS294150_subrecent_2023_2025,C: Logistics Chokepoint,Doxycycline,DOXY,294130,22.57,19.96,8.76,44.91,20.89

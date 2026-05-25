@@ -1,0 +1,36 @@
+# SAPIR-Net Phase 2 — Python Dependencies
+# ============================================================================
+# This requirements.txt pins the third-party Python packages that reproduce
+# the SAPIR-Net Phase 2 Monte Carlo simulation byte-exactly, including:
+#   - phase2_monte_carlo_primary.csv      (md5 eb14ae9444d649e996603d625f6e5dbc)
+#   - phase2_monte_carlo_sensitivity.csv  (md5 2b7184ee7766806bd1afd6b7cc403495)
+#   - phase2_monte_carlo_correlation.csv  (md5 fb30103771e95ed44fd5b89282f1bcf5)
+#   - phase2_hhi_analysis.csv             (md5 8b416a6fd22c3120887aad9c0ce6f63b)
+#   - phase2_hhi_aggregate_2020_2024.csv  (md5 1456e102c6d48aaaaa9c8feeebd962d0)
+#   - phase2_calibration_table.csv        (md5 0f5fcdcb230deb84d744723b389a4a7b)
+#
+# Verified Day 10 (May 2026) against the pinned versions below.
+#
+# Python: 3.12.3
+# Platform: Linux x86_64
+# ============================================================================
+
+# Numerical computing — used by Modules 2, 3, 3_correlation_run, 4a, figure4_correlation
+numpy==2.4.4
+
+# Scientific computing (scipy.stats submodule) — used by:
+#   Module 2 (pareto, lognorm distributions)
+#   Module 3_correlation_run (norm, pearsonr)
+#   Module 4a and figure4_correlation (gaussian_kde)
+scipy==1.17.1
+
+# DataFrame I/O and aggregate operations — used by all six modules
+pandas==3.0.2
+
+# Directed-graph construction and concentration analysis — used by Module 1 only
+networkx==3.6.1
+
+# Figure rendering — used by:
+#   Module 4a (pyplot, ticker, colors, patches; renders Figures 1, 2, 3)
+#   Module figure4_correlation (pyplot, lines; renders Figure 4)
+matplotlib==3.10.8
