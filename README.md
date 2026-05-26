@@ -68,7 +68,7 @@ sapir-net-phase2-antibiotics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/sapir-net-phase2-antibiotics.git
+git clone https://github.com/fahimkazmi911/sapir-net-phase2-antibiotics.git
 cd sapir-net-phase2-antibiotics
 
 # Create and activate a virtual environment (recommended)
