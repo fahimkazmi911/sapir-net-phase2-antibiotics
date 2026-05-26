@@ -185,4 +185,4 @@ The author used Anthropic's Claude (claude-opus-4 family, Anthropic, San Francis
 **Syed Fahim Abbas Kazmi**
 Independent Researcher
 ORCID: [0009-0000-5075-9638](https://orcid.org/0009-0000-5075-9638)
-Email: *(to be supplied)*
+Email: fahim.kazmi911@gmail.com
